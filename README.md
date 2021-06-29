@@ -8,3 +8,7 @@ Features:
     - L = turn left
 - Implemented on a 200x200 planet
 - With obstacle detection
+
+Setup:
+- After cloning, make a `.env` file and run `php artisan key:generate`
+- Run `php artisan serve` and access via [http://localhost:8000](http://localhost:8000)
